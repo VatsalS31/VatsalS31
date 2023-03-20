@@ -15,10 +15,10 @@
 </p>
 
 - 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
-- 👯 I’m looking to collaborate on your open source projects
+- 🌱 I’m currently learning Web Devlopment
+- 👯 I’m looking to collaborate on your open source projects 
 - 💬 Ask me about C++,Java
-- 📫 How to reach me: Contact part
+- 📫 How to reach me: https://www.linkedin.com/in/vatsal-shah-528412218/
 - ⚡ Fun fact: I never thought I would become a .net programmer!
 
 <br>
@@ -29,7 +29,7 @@
 
 - **Languages**:
     
-     <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
+    
 	 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40" />
 	
   
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Vatsal's&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 	
@@ -98,5 +98,5 @@
 
 
 ------
-[Vatsal]https://github.com/Mahdiiye)
+[Vatsal]https://github.com/VatsalS31)
 Last Edited on: 19/01/2023
