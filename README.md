@@ -1,144 +1,71 @@
-<h1 align="center">Hi 👋, I'm Vatsal Shah</h1>
+<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
 
-<!-- <img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image"> -->
-
--------------------
-&emsp;
-<h3 align="left">Hi 👋, I'm Vatsal Shah  I have good experience working in agile environment on several projects as a Frontend Developer.</h3>
-&emsp;
-
--------------------
-&emsp;
-
-- 🔭 I’m currently doing Full Stack Devlopment
-- 📚 I'm also exploring IOS Devlopment 
-
-<!-- - 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems** -->
-
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
-
-&emsp;
-
-## Me around the web:
--------------------
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
 
-&emsp;
-<a href="https://www.linkedin.com/in/vatsal-shah-528412218/">
-    ![Linkedin](https://img.shields.io/badge/-Vatsal-blue?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
-<!-- <a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
-</a> -->
-<!-- <a href="https://www.instagram.com/halmyradov/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a> -->
-<a href="https://github.com/VatsalS31">
-   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-</a>
-<!-- <a href="https://stackoverflow.com/users/14958897/berkeli">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
-</a> -->
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
-&emsp;
+<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-## 🛠️ My Skills
--------------------
-### Programming languages:
-&emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://cdn-icons-png.flaticon.com/512/226/226777.png)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash) -->
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-<!-- ![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
-![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView) -->
-### Frontend development:
-&emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-<!-- ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass) -->
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-<!-- ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js) -->
-### Misc tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-<!-- ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira) -->
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-<!-- ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<!-- ### Services & Frameworks: 
-&emsp;
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
- -->
+- 🔭 I’m currently working on  Soy Estudiante
+  
+- 🌱 I’m currently learning Git, Java y GitHub
+  
+- 👯 I’m looking to collaborate on Proyectos
+  
+- 💬 Ask me about Sql, Java, C#, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.
 
-<!-- ### Databases:
-&emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite) -->
-
-<!-- ### SRE & DevOps:
-&emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef) -->
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
 
-&emsp;
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  
+<br>
+<br>
+  <br>
+  
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
 
-## 📈 My GitHub Stats and Activity
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-### 💻 Profile Stats
-
-<img alt="Vatsal's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=berkeli&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
-### 🔥 Streak Stats
+<br>
 
-![Vatsal's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
 
-### 📊 Contribution Stats
+-----
+Credits: [Aditya Deshmukh](https://github.com/Aditya664)
 
-<img alt="Vatsal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Vatsal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
-------
-
+Last Edited on: 04/09/2021
