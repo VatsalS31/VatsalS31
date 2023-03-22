@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vatsal Shah</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<!-- <img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image"> -->
 
 -------------------
 &emsp;
@@ -10,10 +10,10 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
+- 🔭 I’m currently doing Full Stack Devlopment
+- 📚 I'm also exploring IOS Devlopment 
 
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
+<!-- - 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems** -->
 
 - 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
 
@@ -33,8 +33,8 @@
 <!-- <a href="https://www.instagram.com/halmyradov/">
     ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
 </a> -->
-<a href="https://github.com/berkeli">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+<a href="https://github.com/VatsalS31">
+    ![GitHub:Vatsal](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
 </a>
 <!-- <a href="https://stackoverflow.com/users/14958897/berkeli">
     ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
@@ -56,7 +56,7 @@
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -141,5 +141,4 @@
 <img alt="Vatsal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=berkeli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ------
-Credit: [Berkeli](https://github.com/Berkeli)
-Last Edited on: 02/01/2023
+
