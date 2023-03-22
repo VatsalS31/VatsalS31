@@ -25,7 +25,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/vatsal-shah-528412218/">
-    ![Linkedin: Vatsal](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Vatsal](https://img.shields.io/badge/-Vatsal-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <!-- <a href="https://twitter.com/intent/follow?screen_name=halmyradov">
     ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
@@ -34,7 +34,7 @@
     ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
 </a> -->
 <a href="https://github.com/VatsalS31">
-    ![GitHub:Vatsal](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+    ![GitHub:Vatsal] (https://img.shields.io/github/followers/vatsal?label=follow&style=social)
 </a>
 <!-- <a href="https://stackoverflow.com/users/14958897/berkeli">
     ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
