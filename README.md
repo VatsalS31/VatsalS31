@@ -25,7 +25,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/vatsal-shah-528412218/">
-    ![Linkedin: Vatsal](https://img.shields.io/badge/-Vatsal-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin](https://img.shields.io/badge/-Vatsal-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <!-- <a href="https://twitter.com/intent/follow?screen_name=halmyradov">
     ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
