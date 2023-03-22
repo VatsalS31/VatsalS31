@@ -34,7 +34,7 @@
     ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
 </a> -->
 <a href="https://github.com/VatsalS31">
-    ![GitHub:Vatsal] (https://img.shields.io/github/followers/vatsal?label=follow&style=social)
+   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </a>
 <!-- <a href="https://stackoverflow.com/users/14958897/berkeli">
     ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
@@ -138,7 +138,7 @@
 
 ### 📊 Contribution Stats
 
-<img alt="Vatsal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=berkeli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Vatsal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Vatsal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ------
 
