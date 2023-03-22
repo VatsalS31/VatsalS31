@@ -1,82 +1,145 @@
-<h1 align="center"> 👋Fullstack Web Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+<h1 align="center">Hi 👋, I'm Vatsal Shah</h1>
 
-<p align='center'>
- <h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</h1>
+<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Vatsal" />
+-------------------
+&emsp;
+<h3 align="left">Hi 👋, I'm Vatsal Shah  I have good experience working in agile environment on several projects as a Frontend Developer.</h3>
+&emsp;
 
-<h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Vatsal&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsal&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
-<br><br>
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="450px" height="300px" />
-<br><br>
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2>  
-<br><br>
+-------------------
+&emsp;
 
-- :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
-- 🚚 CDN : https://cdn.jsdelivr.net/gh/Vatsal/nama_repository/lokasi_file [*Without Branch name maybe] || repo@branch/location/
-<br>
+- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
+- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vatsal&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
+
+- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+
+&emsp;
+
+## Me around the web:
+-------------------
 
 
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<br>
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
-  <tr>
-      
-     
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
-      
-      <td><img src="https://camo.githubusercontent.com/91c7c8fed6e4e9ccbb25bc941030bc604ea787c09ca2569377ed4d4840872a73/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6a71756572792d372d313137353135322e706e67?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/63a0652105f53ca10fd7bb584ec3326ffda6c6988ca944bb21f6ba0d764bf8be/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f68746d6c352d34302d313137353139332e706e67?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/16243b90ca0de67f1183e67f41fc6383ca998d81c3dd7166b32eda4db307f919/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f637373332d31312d313137353233392e706e67" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://camo.githubusercontent.com/7dd0ebf7a227b0f848f30a3dbd647a682075031e1010b19a7a41e366d281ce2b/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f626f6f7473747261702d3232363037372e706e67?raw=true" width="200"></td>
-    
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
-    1
-  </tr>
+&emsp;
+<a href="https://www.linkedin.com/in/vatsal-shah-528412218/">
+    ![Linkedin: Vatsal](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+</a>
+<!-- <a href="https://twitter.com/intent/follow?screen_name=halmyradov">
+    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
+</a> -->
+<!-- <a href="https://www.instagram.com/halmyradov/">
+    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
+</a> -->
+<a href="https://github.com/berkeli">
+    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+</a>
+<!-- <a href="https://stackoverflow.com/users/14958897/berkeli">
+    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
+</a>
+<a href="https://www.codewars.com/users/BerkeliH">
+    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
+</a>
+<a href="https://www.leetcode.com/berkeli/">
+    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
+</a>
+<a href="https://codepen.io/berkeli">
+    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
+</a> -->
 
-</table>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+&emsp;
 
-<p align="center">
+## 🛠️ My Skills
+-------------------
+### Programming languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jundi-husni/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/zeeid">
-		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zeeidev">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/dev?id=5506644742288227696&hl=in&gl=US">
-					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40"></a>
-      </div>
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash) -->
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+<!-- ![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
+![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView) -->
+### Frontend development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+<!-- ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
+![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass) -->
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+<!-- ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js) -->
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+<!-- ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira) -->
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+<!-- ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) -->
 
-</p>
+<!-- ### Services & Frameworks: 
+&emsp;
+![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
+![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
+ -->
+
+<!-- ### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite) -->
+
+<!-- ### SRE & DevOps:
+&emsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef) -->
+
+
+&emsp;
+
+## 📈 My GitHub Stats and Activity
+
+### 💻 Profile Stats
+
+<img alt="Vatsal's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=berkeli&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+
+### 🔥 Streak Stats
+
+![Vatsal's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
+
+### 📊 Contribution Stats
+
+<img alt="Vatsal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=berkeli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ------
-
-
+Credit: [Berkeli](https://github.com/Berkeli)
+Last Edited on: 02/01/2023
