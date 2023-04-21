@@ -56,12 +56,12 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+<!-- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira) -->
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+<!-- ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) -->
 
 <!-- ### Services & Frameworks: 
 &emsp;
@@ -98,7 +98,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/vatsal-shah-528412218/">
-    ![Linkedin: Vatsal](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Vatsal](https://img.shields.io/badge/-Vatsal-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 
 
