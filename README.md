@@ -50,7 +50,7 @@
 <br>
   <br>
   
-[![Vatsal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vatsall&theme=tokyonight)](https://git.io/praveenscience)
+
 
 | ![Vatsal's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Vatsal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vatsal&theme=tokyonight) |
 | --- | --- |
