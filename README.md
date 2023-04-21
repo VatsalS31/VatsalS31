@@ -52,7 +52,7 @@
   
 
 
-| ![Vatsal's github stats](https://github-readme-stats.vercel.app/api?username=VatsalS31&show_icons=true&theme=tokyonight) | ![Vatsal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vatsal&theme=tokyonight) |
+| ![Vatsal's github stats](https://github-readme-stats.vercel.app/api?username=Vatsal's&show_icons=true&theme=tokyonight) | ![Vatsal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vatsal&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Vatsal&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
