@@ -48,7 +48,7 @@
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 <!-- ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux) -->
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+<!-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) -->
 <!-- ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass) -->
