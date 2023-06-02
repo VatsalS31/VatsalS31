@@ -39,14 +39,14 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash) -->
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+<!-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) -->
 <!-- ![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
 ![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView) -->
 ### Frontend development:
 &emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+<!-- ![React](https://img.shields.io/badge/-React-000?&logo=React) -->
 <!-- ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux) -->
 <!-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) -->
 <!-- ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
