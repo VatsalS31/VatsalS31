@@ -34,12 +34,13 @@
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-t-000?&lo<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash) -->
-<!-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) -->
+<!--  -->
 <!-- ![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
 ![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
@@ -65,6 +66,7 @@ t-000?&lo<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=T
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira) -->
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 <!-- ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) -->
 
 <!-- ### Services & Frameworks: 
@@ -73,10 +75,10 @@ t-000?&lo<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=T
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
  -->
-<!-- 
+
 ### Databases:
 &emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+`![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)`
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
@@ -92,7 +94,7 @@ t-000?&lo<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=T
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef) -->
+![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 
 
 
