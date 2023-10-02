@@ -14,13 +14,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Web Devlopment Projects
+- 🔭 I’m currently working on Data Science, Machine Learning Projects
   
-- 🌱 I’m currently learning Git,Fullstack Web Devlopment
+- 🌱 I’m currently learning Git,Data Science,Machine Learning , Deep Learning
   
 - 👯 I’m looking to collaborate on Projects,Open Source
   
-- 💬 Ask me about  Java, C++, JavaScript
+- 💬 Ask me about  Pyhton, Java, C++, Pandas
   
 - ⚡ Fun fact: Me gustan los girasoles.
 
@@ -34,7 +34,7 @@
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+t-000?&lo<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
@@ -43,7 +43,7 @@
 <!-- ![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
 ![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView) -->
+![PineScript](https://img.shields.io/badge/-PineScripgo=TradingView) -->
 ### Frontend development:
 &emsp;
 <!-- ![React](https://img.shields.io/badge/-React-000?&logo=React) -->
