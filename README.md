@@ -78,23 +78,15 @@
 
 ### Databases:
 &emsp;
-<!--![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-<!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-<!--![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-<!--![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+
 
 ### SRE & DevOps:
 &emsp;
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
+
 
 
 
