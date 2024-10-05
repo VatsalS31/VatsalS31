@@ -114,5 +114,4 @@ Final-year B.Tech student at VIT Vellore with two internships in the software in
 - **AI ML Certification Powered by Google Developers**
 - Solved 1000+ problems on **LeetCode**, **CodeStudio**, and **GFG**.
 - **3rd Place** at Ideozen Hackathon and Yantra Hackathon.
-- **Microsoft Certified: Power Platform Fundamentals (PL-900)**
 - **Oracle Cloud Infrastructure 2024 GenAI Certificate Professional**
